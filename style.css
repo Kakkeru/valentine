@@ -1,0 +1,54 @@
+*
+{
+    background-color: pink;
+}
+h1
+{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    font-weight: 1000;
+}
+
+.parentDiv
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 20px;
+    padding: 60px;
+}
+.parentDiv1
+{ text-align: center;}
+.yesID
+{
+    border:20px solid;
+    border-color: greenyellow;
+    border-radius: 10px;
+    padding: 1px;
+    margin: 20px;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: whitesmoke;
+    background-color: greenyellow;
+    text-decoration: none;
+    display:flex;
+    justify-content: center;
+    
+}
+.noID
+{
+    border:20px solid;
+    border-color: red;
+    border-radius: 10px;
+    padding: 1px;
+    margin: 20px;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: whitesmoke;
+    background-color: red;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    
+}

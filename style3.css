@@ -1,0 +1,14 @@
+*
+{
+    background-color: coral;
+}
+h1
+{
+    text-align: center;
+    color: pink;
+}
+.div2
+{
+    display: flex;
+    justify-content: center;
+}
